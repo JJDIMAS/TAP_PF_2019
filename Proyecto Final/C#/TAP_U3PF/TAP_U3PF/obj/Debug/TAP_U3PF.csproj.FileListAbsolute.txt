@@ -1,0 +1,17 @@
+C:\Users\Shimishumi\source\repos\TAP_U3PF\TAP_U3PF\bin\Debug\TAP_U3PF.exe.config
+C:\Users\Shimishumi\source\repos\TAP_U3PF\TAP_U3PF\bin\Debug\TAP_U3PF.exe
+C:\Users\Shimishumi\source\repos\TAP_U3PF\TAP_U3PF\bin\Debug\TAP_U3PF.pdb
+C:\Users\Shimishumi\source\repos\TAP_U3PF\TAP_U3PF\obj\Debug\TAP_U3PF.csprojResolveAssemblyReference.cache
+C:\Users\Shimishumi\source\repos\TAP_U3PF\TAP_U3PF\obj\Debug\TAP_U3PF.Form1.resources
+C:\Users\Shimishumi\source\repos\TAP_U3PF\TAP_U3PF\obj\Debug\TAP_U3PF.Properties.Resources.resources
+C:\Users\Shimishumi\source\repos\TAP_U3PF\TAP_U3PF\obj\Debug\TAP_U3PF.csproj.GenerateResource.Cache
+C:\Users\Shimishumi\source\repos\TAP_U3PF\TAP_U3PF\obj\Debug\TAP_U3PF.csproj.CoreCompileInputs.cache
+C:\Users\Shimishumi\source\repos\TAP_U3PF\TAP_U3PF\obj\Debug\TAP_U3PF.exe
+C:\Users\Shimishumi\source\repos\TAP_U3PF\TAP_U3PF\obj\Debug\TAP_U3PF.pdb
+C:\Users\Shimishumi\source\repos\TAP_U3PF\TAP_U3PF\obj\Debug\TAP_U3PF.Login2.resources
+C:\Users\Shimishumi\source\repos\TAP_U3PF\TAP_U3PF\obj\Debug\TAP_U3PF.Decidir.resources
+C:\Users\Shimishumi\source\repos\TAP_U3PF\TAP_U3PF\obj\Debug\TAP_U3PF.Lugar.resources
+C:\Users\Shimishumi\source\repos\TAP_U3PF\TAP_U3PF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shimishumi\source\repos\TAP_U3PF\TAP_U3PF\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Shimishumi\source\repos\TAP_U3PF\TAP_U3PF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shimishumi\source\repos\TAP_U3PF\TAP_U3PF\bin\Debug\itextsharp.dll
